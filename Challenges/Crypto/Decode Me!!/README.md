@@ -7,9 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/67539414/90959340-bde1a680-e49a-11ea-94ef-583bdbf7d81a.png)
 
-**we look into that we find the Fernet (symmetric encryption). This is a "symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key.** 
+**we look into that we find the Fernet (symmetric encryption). This is a "symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key.
 
-**And now we know who we are dealing with**
+**And now we know who we are dealing with
 **Open your python console or make python file as you like
 
 ![Decodeme](https://user-images.githubusercontent.com/67539414/90961831-defec300-e4ab-11ea-8c7f-b14500557917.png)
@@ -30,7 +30,7 @@
 ![](https://res.cloudinary.com/micro0x00/image/upload/v1598117981/44_wnjmmm.png)
 **
 
-## go to Malbolge tools [Click here](https://zb3.me/malbolge-tools/)a
+## go to Malbolge tools [Click here](https://zb3.me/malbolge-tools/)
 
 **
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--P59qDlKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/jhxpmufnf32sfw7qhaxd.png)
